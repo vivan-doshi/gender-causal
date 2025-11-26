@@ -7,3 +7,4 @@ notebooks/Gender_Wage_Gap_All_Features.ipynb
 notebooks/Gender_Wage_Gap_Expanded_Features.ipynb
 notebooks/generate_comprehensive_notebook.py
 notebooks/run_expanded_analysis.py
+notebooks/run_all_features_analysis.py

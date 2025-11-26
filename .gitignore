@@ -1,2 +1,5 @@
 .DS_Store
-01 Data/
+data/raw/
+data/processed/
+__pycache__/
+.ipynb_checkpoints/
